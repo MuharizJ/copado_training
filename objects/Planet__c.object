@@ -189,6 +189,17 @@
             </valueSetDefinition>
         </valueSet>
     </fields>
+    <fields>
+        <fullName>Universe__c</fullName>
+        <externalId>false</externalId>
+        <label>Universe</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Planet</label>
     <nameField>
         <label>Planet Name</label>
